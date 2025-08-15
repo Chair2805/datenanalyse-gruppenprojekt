@@ -1,7 +1,7 @@
 # datenanalyse-gruppenprojekt
 LETS GOOO
 # Task 1
-## 1.1 Data Leakage and biases (10 marks)
+## 1.1 Data Leakage and biases (10 marks) CHIARA 
 ### 1.1.1- 
 In the summary above, you’ll notice that they perform a regression of their engineered
 features against UPDRS score. They then predict UPDRS score to define a measure called
@@ -15,7 +15,7 @@ computer less (because the disease prevents them), and as such the differences i
 might be a training effect rather than a disease effect. Discuss this for no more than two
 paragraphs (you can use bullet points).
 
-## 1.2. Exploratory Data Analysis (20 marks)
+## 1.2. Exploratory Data Analysis (20 marks) FRANZI (TEXT und INTERPRETATION: CHIARA)
 ### 1.2.1- 
 Using a boxplot, visualise the difference in UPDRS scores for the Healthy and
 Parkinson’s patients.
@@ -28,7 +28,7 @@ on, like normal distribution etc.)
 Visualise the correlations of all feature variables (for example using seaborn pairplot)
 and discuss anything you notice (no more than two paragraphs).
 
-# Task 2: Regression vs UPDRS score (30 marks)
+# Task 2: Regression vs UPDRS score (30 marks) FRANZI (TEXT und INTERPRETATION: CHIARA)
 Dataset: Your second task again uses the data in MIT
 USERS
 _
@@ -52,7 +52,7 @@ support vector machine. Don’t forget to split your data into training and test
 ### 2.2.2- 
 Compare and contrast your results with the linear regression.
 
-# Task 3: Classification of healthy vs Parkinson's disease (40 marks)
+# Task 3: Classification of healthy vs Parkinson's disease (40 marks) RONNY 
 Dataset: Your third task continues with the same file MIT
 USERS
 _
